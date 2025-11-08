@@ -10,7 +10,7 @@ Selling authentic products
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website</h1>
+    <h1>Welcome to LM Shop</h1>
     <nav>
       <a href="#">Home</a>
       <a href="#">About</a>
@@ -18,7 +18,7 @@ Selling authentic products
     </nav>
   </header>
   <main>
-    <p>This is my first website. I built it myself!</p>
+    <p>We are selling authentic products amd offering pasabuy from dubai to philippines</p>
   </main>
   <footer>
     <p>&copy; 2025 My Website</p>
