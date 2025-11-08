@@ -26,7 +26,6 @@ Selling authentic products
   <script src="script.js"></script>
 </body>
 </html>
-#
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -34,7 +33,6 @@ body {
   background: #f5f5f5;
 }
 
-##
 header {
   background: #0077cc;
   color: white;
