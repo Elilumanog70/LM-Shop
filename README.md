@@ -26,6 +26,7 @@ Selling authentic products
   <script src="script.js"></script>
 </body>
 </html>
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
